@@ -1,4 +1,3 @@
-
 #hotel.py
 class Hotel:
     def __init__(self, name, address):
